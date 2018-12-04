@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/dmb-api/settings/local.py
+
+# may contain sensitive info
+client.py
+
+.vagrant

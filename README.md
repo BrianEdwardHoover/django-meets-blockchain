@@ -1,2 +1,1 @@
-# django-meets-blockchain
-Starter code for Django meets Blockchain event
+This repository contains the starter code for Django meets Blockchain event. For more information, refer to the instructions at [https://taliotech.github.io/django-meets-blockchain-site](https://taliotech.github.io/django-meets-blockchain-site).
